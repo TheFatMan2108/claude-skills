@@ -7,7 +7,7 @@ Personal skills for Claude Code.
 Clone into the personal skills folder so Claude Code picks them up in every project:
 
 ```bash
-git clone https://github.com/riseongamestudio/claude-skills.git ~/.claude/skills
+git clone https://github.com/TheFatMan2108/claude-skills.git ~/.claude/skills
 ```
 
 If `~/.claude/skills` already exists, copy just the skill folders you want into it.
